@@ -1,6 +1,12 @@
 # Portfolio 
 Portfolio created with Angular 18 (Typescript) && Tailwind CSS
 
+# Responsive
+This Portfolio is responsive and much better if you are in the small screen
+
+# Some Screenshoot
+![alt text](home_portfolio.png) ![alt text](home_porfolio_dark.png)
+
 # Portfolio-naunau
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.9.
