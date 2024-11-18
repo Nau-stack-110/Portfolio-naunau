@@ -1,0 +1,9 @@
+
+<section class="container mt-20 p-8" id="skills">
+  <div class="grid grid-cols-3 md:grid-cols-3 lg:grid-cols-9 gap-8">
+    <a *ngFor="let item of skills;" class="text-gray-500 flex justify-center  flex-wrap ">
+        <img class="rounded-full w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24" [src]="item.img" [alt]="item.name |uppercase" />
+        <span href="" class="text-slate-900 dark:text-white">{{item.name}} </span>
+    </a>
+  </div>
+</section>
